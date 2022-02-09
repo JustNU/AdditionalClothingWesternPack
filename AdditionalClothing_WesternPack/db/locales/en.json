@@ -1,0 +1,29 @@
+{
+	"AddClothingWestern_FlektarnGen2Lower": {
+        "Name": "Flecktarn Pants"
+	},
+	"AddClothingWestern_FlektarnPCSUpper": {
+        "Name": "Flecktarn PCS"
+	},
+	"AddClothingWestern_Wz93AggressorUpper": {
+        "Name": "Military Parka (Wz.93)"
+	},
+	"AddClothingWestern_Wz93ZaslonLower": {
+        "Name": "Military Pants (Wz.93)"
+	},
+	"AddClothingWestern_MTPPCSUpper": {
+        "Name": "PCS Shirt (MTP)"
+	},
+	"AddClothingWestern_MTPCombatShirtUpper": {
+        "Name": "Combat Shirt (MTP)"
+	},
+	"AddClothingWestern_MTPG3CombatPants": {
+        "Name": "G3 Combat Pants (MTP)"
+	},
+	"AddClothingWestern_CECJacket": {
+        "Name": "Military Jacket (CEC)"
+	},
+	"AddClothingWestern_CECbearpants": {
+        "Name": "Military Pants (CEC)"
+	}
+}

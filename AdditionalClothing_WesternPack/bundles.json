@@ -1,0 +1,155 @@
+{
+    "manifest": [
+		{
+            "key": "AddClothingWestern/Tops/top_pcsshirt_flektarn_textures.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddClothingWestern/Tops/top_pcsshirt_flektarn_mesh.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"AddClothingWestern/Tops/top_pcsshirt_flektarn_textures.bundle",
+                "shaders",
+                "assets/content/characters/character/usec/usec5/top_usec_pcsshirt.skin_mesh"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Tops/top_pcsshirt_MTP_textures.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddClothingWestern/Tops/top_pcsshirt_MTP_mesh.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"AddClothingWestern/Tops/top_pcsshirt_MTP_textures.bundle",
+                "shaders",
+                "assets/content/characters/character/usec/usec5/top_usec_pcsshirt.skin_mesh"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Bottoms/bottom_gen2_flektarn.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Bottoms/bottom_zaslon_wz93.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Tops/top_aggressor_wz93.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Hands/hands_aggressor_wz93.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "assets/content/hands/usec/materials/watch_usec_textures",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"shaders"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Hands/hands_pcsshirt_flecktarn.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "assets/content/hands/usec/materials/watch_usec_textures",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"shaders"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Tops/top_combatshirt_MTP.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Bottoms/bottom_g3pants_MTP.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Hands/hands_combatshirt_MTP.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "assets/content/hands/usec/materials/watch_usec_textures",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"shaders"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Hands/hands_pcsshirt_MTP.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "assets/content/hands/usec/materials/watch_usec_textures",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"shaders"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Tops/top_acu_OCP.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Bottoms/bottom_urbanresponder_OCP.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Tops/top_nightpatrol_CEC.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Bottoms/bottom_beardefault_CEC_textures.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddClothingWestern/Bottoms/bottom_beardefault_CEC.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"AddClothingWestern/Bottoms/bottom_beardefault_CEC_textures.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingWestern/Hands/hands_nightpatrol_CEC.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "assets/content/hands/usec/materials/watch_usec_textures",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"shaders",
+				"assets/content/hands/hands_usec_nightpatrol/hands_usec_nightpatrol.skin.bundle"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+	"AddClothingWestern_FlektarnGen2Lower": {
+        "Name": "Штаны (Флектарн)"
+	},
+	"AddClothingWestern_FlektarnPCSUpper": {
+        "Name": "Куртка (Флектарн)"
+	},
+	"AddClothingWestern_Wz93AggressorUpper": {
+        "Name": "Военная Парка (Wz.93)"
+	},
+	"AddClothingWestern_Wz93ZaslonLower": {
+        "Name": "Военные Штаны (Wz.93)"
+	}
+}
